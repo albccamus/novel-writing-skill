@@ -1,0 +1,8 @@
+# node_modules/
+.DS_Store
+*.swp
+*.swo
+*~
+*.local.json
+# 不要上传小说正文——用户自己的内容
+# 本仓库只包含模板和脚本
